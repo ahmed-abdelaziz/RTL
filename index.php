@@ -52,7 +52,7 @@ then call it after ltr style sheet in your html code.
 </div>
 </section>
 <footer>
-<div class="left">2014 &copy 004 Group. All Rights Reserved.</div>
+<div class="left">2017 &copy 004 Group. All Rights Reserved.</div>
 <div class="right">
 <nav>
 <ul>
